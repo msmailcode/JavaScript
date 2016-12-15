@@ -1,5 +1,6 @@
 #JavaScript
-#Chrome扩展及应用开发
+
+#[Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 ## 第1章　初步接触Chrome扩展应用开发
 
@@ -15,9 +16,12 @@
 
 ## 第3章　Chrome扩展的UI界面
 
+- Browser Actions
+	- 图标 : browser_action_icon
 - 右键菜单 : google_translate
 
 
+> manifest.json 模板
 > {
     "app": {
         "background": {
